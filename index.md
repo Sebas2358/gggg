@@ -1,3 +1,15 @@
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="active " href="index.html">Inicio</a></li>
+          <li><a href="diseño.html">Diseño</a></li>
+          <li><a href="seleccion.html">Selección de robots</a></li>
+          <li><a href="seleccionh.html">Selección de herramientas</a></li>
+          <li><a href="team.html">Integrantes</a></li>
+          <li><a href="asignatura.html">Asignatura</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sebas2358/gggg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
